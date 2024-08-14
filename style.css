@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: consolas;
+}
+
+h1 {
+    background-color: #F6AE2D;
+    text-align: center;
+}
+
+body {
+    background-color: #86BBD8;
+}
+
+.container {
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    line-height: 140px;
+    width: 150px;
+    height: 150px;
+    background-color: #758E4F;
+    margin: 20px;
+    border-radius: 5rem;
+    border: 2px solid black;
+}
+
+.msg {
+    text-align: center;
+    text-decoration: solid;
+    text-decoration-color: black;
+}
+
+.whoSelctedWhat {
+    text-align: center;
+    text-decoration: solid;
+    text-decoration-color: black;
+}
+
+#paper {
+    background-color: #33658A;
+}
+
+#scissor {
+    background-color: #F26419;
+}
+
+#paper {
+    background-color: #33658A;
+}
+
+
+#paper:hover {
+    background-color: red;
+}
+
+#scissor:hover {
+    background-color: red;
+}
+
+#stone:hover {
+    background-color: red;
+}
